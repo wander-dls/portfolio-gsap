@@ -4,6 +4,7 @@ import ServicesSummary from "./sections/ServicesSummary"
 import Services from "./sections/Services"
 import ReactLenis from "lenis/react"
 import About from "./sections/About"
+import Work from "./sections/Work"
 
 const App = () =>  {
   return (
@@ -13,6 +14,7 @@ const App = () =>  {
       <ServicesSummary />
       <Services />
       <About />
+      <Work />
     </ReactLenis>
   )
 }
