@@ -174,3 +174,5 @@ export const socials = [
   { name: "LinkedIn", href: "https://www.linkedin.com/in/wander-delossantos/" },
   { name: "GitHub", href: "https://github.com/wander-dls" },
 ];
+
+ 
